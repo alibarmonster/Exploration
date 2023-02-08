@@ -1,0 +1,19 @@
+{
+  "name": "world-cup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alibarrs/Exploration.git"
+  },
+  "author": "alibarmonster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alibarrs/Exploration/issues"
+  },
+  "homepage": "https://github.com/Alibarrs/Exploration#readme"
+}
