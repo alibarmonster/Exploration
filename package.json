@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Alibarrs/Exploration/issues"
   },
-  "homepage": "https://github.com/Alibarrs/Exploration#readme"
+  "homepage": "https://github.com/Alibarrs/Exploration#readme",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "cli-table": "^0.3.11",
+    "commander": "^10.0.0",
+    "moment": "^2.29.4"
+  }
 }
